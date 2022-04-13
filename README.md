@@ -9,3 +9,4 @@
 | 5. | `Predicting Credit Card Approvals` |  In this project, an automatic credit card approval predictor using machine learning techniques is built, just like the real banks do.  |
 | 6. | `ASL Recognition with Deep Learning` |  In this project, a convolutional neural network will be trained to classify images of ASL letters. After loading, examining, and preprocessing the data, the network will be trained and tested its performance. |
 | 7. | `Find Movie Similarity from Plot Summaries` |  In this project, NLP is used to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia. |
+| 8. | `Classify Song Genres from Audio Data` |  In this project, using a dataset comprised of songs of two music genres (Hip-Hop and Rock), a classifier is trained to distinguish between the two genres based only on track information derived from Echonest (now part of Spotify). |
